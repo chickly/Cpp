@@ -1,0 +1,4 @@
+# ninja log v5
+3	625	6979605907256396	CMakeFiles/structure_only.dir/src/example/constexpr_map.cpp.obj	10a9139ced42b0b2
+10	699	6979605907996396	CMakeFiles/structure_only.dir/test/main.cpp.obj	b8290b72fe91f123
+699	795	6979605908866399	structure_only.exe	9656d6bd09090f34

@@ -1,0 +1,6 @@
+E:/Code/Cpp/build/CMakeFiles/_copy_compile_commands.dir
+E:/Code/Cpp/build/CMakeFiles/structure_only.dir
+E:/Code/Cpp/build/CMakeFiles/edit_cache.dir
+E:/Code/Cpp/build/CMakeFiles/rebuild_cache.dir
+E:/Code/Cpp/build/_deps/_project_options-build/CMakeFiles/edit_cache.dir
+E:/Code/Cpp/build/_deps/_project_options-build/CMakeFiles/rebuild_cache.dir
